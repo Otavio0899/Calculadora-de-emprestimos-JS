@@ -1,0 +1,22 @@
+ /* Folha de estilo CSS - adiciona saída ao programa*/
+ .output {
+    font-weight: bold;
+}
+
+/* Valores calculados em negrito*/
+#payment {
+    text-decoration: underline;
+}
+
+/* Para elemento com id=payment */
+#graph {
+    border: solid black 1px;
+}
+
+/* o gráfico tem bordas simples */
+th,
+td {
+    vertical-align: top;
+}
+
+/* Não centraliza células da tabela*/
